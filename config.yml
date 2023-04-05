@@ -1,5 +1,4 @@
 status:
-port: "16241"
 
 storages:
 - name: main
